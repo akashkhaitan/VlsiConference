@@ -1,0 +1,1108 @@
+{
+  "vlsi2012": {
+    "conference": {
+      "days": [
+        {
+          "day": "Day 1: Jan 09"
+        },
+        {
+          "day": "Day 2: Jan 10"
+        },
+        {
+          "day": "Day 3: Jan 11"
+        }
+      ],
+      "data": [
+        {
+          "uniquekey": "1",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 09:00-09:30",
+          "time": "09:00-09:30",
+          "sessionid": "",
+          "sessiontitle": "Inauguration",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "2",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 09:30-10:15",
+          "time": "09:30-10:15",
+          "sessionid": "Keynote 1",
+          "sessiontitle": "Jaswinder Ahuja, Cadence,India",
+          "sessionsubtitle": "Semiconductor Industry: best of times, worst of times,and nowhere else I would rather be!",
+          "chair": "Chair: Kewal Saluja",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "3",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 10:35-11:20",
+          "time": "10:35-11:20",
+          "sessionid": "Keynote   2",
+          "sessiontitle": "Jean Boufarhat, AMD",
+          "sessionsubtitle": "Emerging trends in Process Technologies",
+          "chair": "Chair: Manoher Bommena",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "4",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "A1",
+          "sessiontitle": "Applcation   Driven Analog Design",
+          "sessionsubtitle": "",
+          "chair": "Chair : Prakash Easwaran",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A1.1",
+              "eventdescription": "Random Access Analog Memory (RA2M) for video signal application",
+              "speakers": "Nilanjan Chattaraj and Anindya Sundar Dhar",
+              "place": "IISc Bangalore"
+            },
+            {
+              "eventid": "A1.2",
+              "eventdescription": "A 55-mW 300MS/s 8-bit CMOS parallel pipeline ADC",
+              "speakers": "Manas Kumar Hati and Tarun Kanti Bhattacharyya",
+              "place": "IIT Kharagpur"
+            },
+            {
+              "eventid": "A1.3",
+              "eventdescription": "A 110-dB Dynamic Range, 76-dB Peak SNR Companding Continuous-Time Delta Sigma Modulator for Audio Applications",
+              "speakers": "Saravana Kumar and Shouri Chatterjee",
+              "place": "Analog Devices Inc, IIT Delhi"
+            }
+          ]
+        },
+        {
+          "uniquekey": "5",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "B1",
+          "sessiontitle": "Reconfigurable Architecures",
+          "sessionsubtitle": "",
+          "chair": "Chair: Masahiro Fujita",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B1.1",
+              "eventdescription": "Customizing Instruction Set Extensible Reconfigurable Processors using GPUs",
+              "speakers": "Unmesh D. Bordoloi, Bharath Suri, Swaroop Nunna, Samarjit Chakraborty, Petru Eles and Zebo Peng",
+              "place": "Linköping University, TU Munich"
+            },
+            {
+              "eventid": "B1.2",
+              "eventdescription": "Energy-Efficient Application Mapping in FPGA through Computation in Embedded Memory Blocks",
+              "speakers": "Anandaroop Ghosh, Somnath Paul, Seetharam Narasimhan and Swarup Bhunia",
+              "place": "Case Western Reserve University, Intel Corp"
+            },
+            {
+              "eventid": "B1.3",
+              "eventdescription": "Intra-task Dynamic Cache Reconfiguration",
+              "speakers": "Hadi Hajimiri and Prabhat Mishra",
+              "place": "University of Florida"
+            }
+          ]
+        },
+        {
+          "uniquekey": "6",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "C1",
+          "sessiontitle": "Low Power Analog-Mixed Signal Design",
+          "sessionsubtitle": "",
+          "chair": "Chair: Susmita Sur-Kolay",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C1.1",
+              "eventdescription": "Impact of Body Bias Based Leakage Power Reduction on Soft Error Rate",
+              "speakers": "Warin Sootkaneung and Kewal K. Saluja",
+              "place": "University of Wisconsin-Madison"
+            },
+            {
+              "eventid": "C1.2",
+              "eventdescription": "An Area Efficient Diode and On Transistor Interchangeable Power Gating Scheme with Trim Options for Low Power SRAMs",
+              "speakers": "Ankur Goel, Donald Evans, Richard Stephani, Venkateswara Reddy, Dharmendra Rai, Sathisha N. and Veerabadra Chary",
+              "place": "LSI India R&D Pvt Ltd"
+            },
+            {
+              "eventid": "C1.3",
+              "eventdescription": "An Energy Efficient Oscillator Frequency Calibration Methodology using Fraction Phase Computation",
+              "speakers": "Amitava Ghosh, Isha Das and Achintya Halder",
+              "place": "IIT Kharagpur"
+            }
+          ]
+        },
+        {
+          "uniquekey": "7",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 13:40-14:25",
+          "time": "13:40-14:25",
+          "sessionid": "Keynote 3",
+          "sessiontitle": "Samarjit Chakraborty, TU Munich, Germany",
+          "sessionsubtitle": "Challenges in Automotive Cyber-physical Systems Design",
+          "chair": "",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "8",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 14:30-15:45",
+          "time": "14:30-15:45",
+          "sessionid": "A2",
+          "sessiontitle": "High Speed Mixed Signal RF Design",
+          "sessionsubtitle": "",
+          "chair": "Chair:Menezes,Vinod",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A2.1",
+              "eventdescription": "Self-Induced Supply Noise Reduction Technique in GBPS rate Transmitters",
+              "speakers": "Nitin Gupta, Tapas Nandy and Phalguni Bala",
+              "place": "STMicroelectronics Pvt Ltd"
+            },
+            {
+              "eventid": "A2.2",
+              "eventdescription": "Buffer Design and Eye-Diagram Based Characterization of a 20 GS/s CMOS DAC",
+              "speakers": "Mohit Singh and Shalabh Gupta",
+              "place": "IIT Bombay"
+            },
+            {
+              "eventid": "A2.3",
+              "eventdescription": "Analog Processing Based Equalizer for 40 Gbps Coherent Optical Links in 90 nm CMOS",
+              "speakers": "Pawan Kumar Moyade, Nandakumar Nambath, Allmin Ansari and Shalabh Gupta",
+              "place": "IIT   Bombay"
+            }
+          ]
+        },
+        {
+          "uniquekey": "9",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 14:30-15:45",
+          "time": "14:30-15:45",
+          "sessionid": "B2",
+          "sessiontitle": "Designing Real Time Embedded Systems",
+          "sessionsubtitle": "",
+          "chair": "Chair: Ajay Joshi",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B2.1",
+              "eventdescription": "HD Resolution Intra Prediction Architecture for H.264 Decoder",
+              "speakers": "Jimit Shah, Komanduri S. Raghunandan and Kuruvilla Varghese",
+              "place": "IISC Bangalore"
+            },
+            {
+              "eventid": "B2.2",
+              "eventdescription": "Design for Security of Block Cipher S-Boxes to Resist Differential Power Attacks",
+              "speakers": "Bodhisatwa Mazumdar, Debdeep Mukhopadhyay and Indranil Sengupta",
+              "place": "IIT Kharagpur"
+            },
+            {
+              "eventid": "B2.3",
+              "eventdescription": "Real-time Melodic Accompaniment System for Indian Music Using TMS320C6713",
+              "speakers": "Prateek Verma and Preeti Rao",
+              "place": "IIT Bombay"
+            }
+          ]
+        },
+        {
+          "uniquekey": "10",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 14:30-15:45",
+          "time": "14:30-15:45",
+          "sessionid": "C2",
+          "sessiontitle": "Design Techniques for Power Management",
+          "sessionsubtitle": "",
+          "chair": "Chair: Prabhat Mishra",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C2.1",
+              "eventdescription": "Bidirectional Single- Supply Level Shifter with Wide Voltage Range for Efficient Power Management",
+              "speakers": "Sujan Manohar, Vinod Somasundar, Ramakrishnan Venkatasubramanian and Poras Balsara",
+              "place": "University of Texas at Dallas"
+            },
+            {
+              "eventid": "ET1",
+              "eventdescription": "Embedded Tutorial: Pole-Zero Analysis of Low-Dropout Regulators (LDOs)",
+              "speakers": "Annajirao Garimella, Punith Surkanti and Paul M. Furth",
+              "place": "New Mexico State   University, USA"
+            }
+          ]
+        },
+        {
+          "uniquekey": "11",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 16:05-17:20",
+          "time": "16:05-17:20",
+          "sessionid": "A3",
+          "sessiontitle": "Analog/RF Design Techniques",
+          "sessionsubtitle": "",
+          "chair": "Chair: Padmini Gopalakrishnan",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A3.1",
+              "eventdescription": "3-D Parasitic Modeling for Rotary Interconnects",
+              "speakers": "Vinayak Honkote, Ankit More and Baris Taskin",
+              "place": "Drexel University"
+            },
+            {
+              "eventid": "A3.2",
+              "eventdescription": "Power Aware Post-Manufacture Tuning of MIMO Receiver Systems",
+              "speakers": "Debashis Banerjee, Shreyas Sen, Shyam Devarakond and Abhijit Chatterjee",
+              "place": "Georgia Institute of Technology"
+            },
+            {
+              "eventid": "ET2",
+              "eventdescription": " Embedded Tutorial: Self-Aware/Self-Testing RF and Mixed-Signal Circuits and Systems",
+              "speakers": "Abhijit Chatterjee",
+              "place": "Georgia Institute of Technology"
+            }
+          ]
+        },
+        {
+          "uniquekey": "12",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 16:05-17:20",
+          "time": "16:05-17:20",
+          "sessionid": "B3",
+          "sessiontitle": "Communication Applications",
+          "sessionsubtitle": "",
+          "chair": "Chair: Manoj S Gaur",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B3.1",
+              "eventdescription": "GPU Implementation of a Programmable Turbo Decoder for Software Defined Radio Applications",
+              "speakers": "Dhiraj Reddy Nallapa Yoge and Nitin Chandrachoodan",
+              "place": "IIT Madras"
+            },
+            {
+              "eventid": "ET3",
+              "eventdescription": "Embedded Tutorial: Digital Subscriber Line",
+              "speakers": "M Kalyana Kumar Rao, Shantha Kumari PV and Boopalan Sellappan",
+              "place": "LSI R&D India Pvt Ltd"
+            }
+          ]
+        },
+        {
+          "uniquekey": "13",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 16:05-17:20",
+          "time": "16:05-17:20",
+          "sessionid": "C3",
+          "sessiontitle": "Thermal Analysis and Temperature Aware Design",
+          "sessionsubtitle": "",
+          "chair": "Chair: Vijay Raghunathan",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C3.1",
+              "eventdescription": "Run-time Prediction of the Optimal Performance Point in DVS-based Dynamic Thermal Management",
+              "speakers": "Junyoung Park, H. Mert Ustun and Jacob A. Abraham",
+              "place": "University of Texas at Austin"
+            },
+            {
+              "eventid": "C3.2",
+              "eventdescription": "Temperature-aware Task Partitioning for Real-Time Scheduling in Embedded System",
+              "speakers": "ZheWang, Sanjay Ranka and Prabhat Mishra",
+              "place": "University of Florida"
+            },
+            {
+              "eventid": "C3.3",
+              "eventdescription": "Towards Thermal Profiling in CMOS/Memristor Hybrid RRAM Architectures",
+              "speakers": "Cory Merkel and Dhireesha Kudithipudi",
+              "place": "Rochester Institute of Technology"
+            }
+          ]
+        },
+        {
+          "uniquekey": "14",
+          "day": "Day 1: Jan 09",
+          "date": "Day 1: Jan 09: 09:00-17:00",
+          "time": "09:00-17:00",
+          "sessionid": "",
+          "sessiontitle": "Industry Forum",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "Room No. 1.01",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "15",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 09:00-09:45",
+          "time": "09:00-09:45",
+          "sessionid": "Keynote 4",
+          "sessiontitle": "Sri Parmeswaran, University of New South Wales, Australia",
+          "sessionsubtitle": "",
+          "chair": "Chair: M Balakrishnan",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "16",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 09:50-11:05",
+          "time": "09:50-11:05",
+          "sessionid": "A4",
+          "sessiontitle": "CMOS Sensors and MEMS",
+          "sessionsubtitle": "",
+          "chair": "Chair: PA Govindacharyulu",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A4.1",
+              "eventdescription": "CMOS Gas Sensor Array Platform with Fourier Transform based Impedance Spectroscopy",
+              "speakers": "Pramod M, Navakanta Bhat, Gaurab Banerjee, Bharadwaj Amrutur, K N Bhat and Praveen C Ramamurthy",
+              "place": "IISc Bangalore"
+            },
+            {
+              "eventid": "A4.2",
+              "eventdescription": "A Compact Temperature Sensor at 1.8µA per Hz Conversion rate and 1.1 °C accuracy for SOCs",
+              "speakers": "Subhajit Sen, Dan Babitch and Noshir Dubash",
+              "place": "DAIICT Gandhinagar"
+            },
+            {
+              "eventid": "A4.3",
+              "eventdescription": "Analysis of the Pull-In phenomenon in Microelectromechanical Varactors",
+              "speakers": "Anindya Lal Roy, Anirban Bhattacharya, Ritesh Ray Chaudhuri and Tarun Kanti Bhattacharyya",
+              "place": "IIT   Kharagpur"
+            }
+          ]
+        },
+        {
+          "uniquekey": "17",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 09:50-11:05",
+          "time": "09:50-11:05",
+          "sessionid": "B4",
+          "sessiontitle": "Architecture and Logic Synthesis",
+          "sessionsubtitle": "",
+          "chair": "Chair: Nitin Chandrachoodan",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B4.1",
+              "eventdescription": "Low-Latency No-Handshake GALS Interfaces for Fast-Receiver Links",
+              "speakers": "Jean Michel Chabloz and Ahmed Hemani",
+              "place": "Royal Institute of Technology Stockholm"
+            },
+            {
+              "eventid": "B4.2",
+              "eventdescription": "Set-Cover Heuristics for Two-Level Logic Minimization",
+              "speakers": "Ankit Kagliwal and Shankar Balachandran",
+              "place": "IIT Madras"
+            },
+            {
+              "eventid": "B4.3",
+              "eventdescription": "A Rapid Methodology for Multi-mode Communication Circuit Generation",
+              "speakers": "Liang Tang, Sri Parameswaran and Jorgen Peddersen",
+              "place": "University of New South Wales"
+            }
+          ]
+        },
+        {
+          "uniquekey": "18",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 09:50-11:05",
+          "time": "09:50-11:05",
+          "sessionid": "C4",
+          "sessiontitle": "Energy Harvesting and Power Management",
+          "sessionsubtitle": "",
+          "chair": "Chair: Prathima Agrawal",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C4.1",
+              "eventdescription": "An Integrated CMOS RF Energy Harvester with Differential Microstrip Antenna and On-Chip Charger",
+              "speakers": "Mahima Arrawatia, Varish Diddi, Harsha Kochar, Maryam Shojaei Baghini and Girish Kumar",
+              "place": "IIT Bombay"
+            },
+            {
+              "eventid": "C4.2",
+              "eventdescription": "Low-Overhead Maximum Power Point Tracking for Micro-Scale Solar Energy Harvesting Systems",
+              "speakers": "Chao Lu, Sang-Phill Park, Vijay Raghunathan and Kaushik Roy",
+              "place": "Purdue Universty"
+            },
+            {
+              "eventid": "C4.3",
+              "eventdescription": "Hybrid NEMS-CMOS DC-DC converter for improved area and power efficiency",
+              "speakers": "Sujan Manohar, Ramakrishnan Venkatasubramanian and Poras Balsara",
+              "place": "University of Texas at Dallas,Texas Instruments"
+            }
+          ]
+        },
+        {
+          "uniquekey": "19",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "A5",
+          "sessiontitle": "Physical Design and TCAD",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A5.1",
+              "eventdescription": "A Heuristic Method for Co-optimization of Pin Assignment and Droplet Routing in Digital Microfluidic Biochip",
+              "speakers": "Ritwik Mukherjee, Hafizur Rahaman, Indrajit Banerjee,   Tuhina Samanta, and Parthasarathi Dasgupta",
+              "place": "BES University Shibpur,   IIM Calcutta"
+            },
+            {
+              "eventid": "A5.2",
+              "eventdescription": "Clock Tree Skew Minimization with Structured Routing",
+              "speakers": "Pinaki Chakrabarti",
+              "place": "Synopsys India Pvt   Ltd"
+            },
+            {
+              "eventid": "A5.3",
+              "eventdescription": "Accurate Leakage Estimation for FinFET Standard Cells Using the Response Surface Methodology",
+              "speakers": "Sourindra Chaudhuri, Prateek Mishra and Niraj Jha",
+              "place": "Princeton University"
+            }
+          ]
+        },
+        {
+          "uniquekey": "20",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "B5",
+          "sessiontitle": "System Level Design",
+          "sessionsubtitle": "",
+          "chair": "Chair: Sri Parameswaran",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B5.1",
+              "eventdescription": "Real-Time, Content Aware CameraAlgorithmHardware Co-Adaptation for Minimal Power Video Encoding",
+              "speakers": "Joshua Wells, Jayaram Natarajan, Abhijit Chatterjee and Irtaza Barlas",
+              "place": "Georgia Institute of Technology, Impact Technologies"
+            },
+            {
+              "eventid": "IT1",
+              "eventdescription": "Invited Talk: A Reality Check on ESL Synthesis",
+              "speakers": "Sanjiv Narayan",
+              "place": "Calypto Design Systems"
+            }
+          ]
+        },
+        {
+          "uniquekey": "21",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "C5",
+          "sessiontitle": "Low Power Design Techniques",
+          "sessionsubtitle": "",
+          "chair": "Chair: Mohit Sharma",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C5.1",
+              "eventdescription": "A Novel Encoding scheme for Low Power in Network on Chip links",
+              "speakers": "Deepa N Sarma",
+              "place": "NIT Trichy"
+            },
+            {
+              "eventid": "C5.2",
+              "eventdescription": "A Power Delivery Network Aware Framework for Synthesis of 3D Networks-on-Chip with Multiple Voltage Islands",
+              "speakers": "Nishit Kapadia and Sudeep Pasricha",
+              "place": "Colorado   State University"
+            },
+            {
+              "eventid": "C5.3",
+              "eventdescription": "An Ultra-low Power Symbol Detection Methodology and Its Circuit Implementation for a Wake-up Receiver in Wireless Sensor Nodes",
+              "speakers": "Deepak Kumar Meher, Arunkumar Salimath and Achintya Halder",
+              "place": "SanDisk India Bangalore, IIT Kharagpur"
+            }
+          ]
+        },
+        {
+          "uniquekey": "22",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 13:40-14:25",
+          "time": "13:40-14:25",
+          "sessionid": "Keynote 5",
+          "sessiontitle": "Vishwani Agrawal, Auburn University, USA",
+          "sessionsubtitle": "A History of the VLSI Design Conference",
+          "chair": "Chair: J.A. Chowdary",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "23",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 14:25-15:10",
+          "time": "14:25-15:10",
+          "sessionid": "Keynote 6",
+          "sessiontitle": "Ravi Kuppuswamy, Intel",
+          "sessionsubtitle": "15 billion by 2015 - Transformation of Embedded devices to Intelligent Systems",
+          "chair": "Chair: N. Ranganathan",
+          "venue": "Hall 3",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "24",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 15:35-16:50",
+          "time": "15:35-16:50",
+          "sessionid": "A6",
+          "sessiontitle": "Packaging and 3D Circuits",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A6.1",
+              "eventdescription": "A Framework for TSV Serialization-aware Synthesis of Application Specific 3D Networks-on-Chip",
+              "speakers": "Sudeep Pasricha",
+              "place": "Colorado State University"
+            },
+            {
+              "eventid": "ET4",
+              "eventdescription": "Embedded Tutorial: Packaging trends, Die Package Co-Design flow and challenges",
+              "speakers": "Siva Kothamasu",
+              "place": "Texas Instruments Bangalore"
+            }
+          ]
+        },
+        {
+          "uniquekey": "25",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 15:35-16:50",
+          "time": "15:35-16:50",
+          "sessionid": "B6",
+          "sessiontitle": "Low power IC Design I",
+          "sessionsubtitle": "",
+          "chair": "Chair: Annajirao Garimella",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B6.1",
+              "eventdescription": "Way Sharing Set Associative Cache Architecture",
+              "speakers": "Janaraj C.J., Venkata Kalyan Tavva, Tripti Warrier and Madhu Mutyam",
+              "place": "IIT Madras"
+            },
+            {
+              "eventid": "B6.2",
+              "eventdescription": "Low Power Self Reconfigurable Multiplexer Based Decoder for Adaptive Resolution Flash ADCs",
+              "speakers": "Sai Phaneendra P, Chetan Vudadha, Goutham Makkena, Venkata Swamy Nayudu Mandala, Sreehari V, Ershad Ahmed S, Moorthy Muthukrishnan N and Srinivas M.B.",
+              "place": "BITS-Pilani Hyderbad Campus"
+            },
+            {
+              "eventid": "B6.3",
+              "eventdescription": "A 1.25GHz 0.8W C66x DSP Core in 40nm CMOS",
+              "speakers": "Raguram Damodaran, Timothy Anderson, Sanjive Agarwala, Rama Venkatasubramanian, Michael Gill, Dhileep Gopalakrishnan, Abhijeet Chachad, Dheera Balasubramanian, Naveen Bhoria, Jonathan Tran, Duc Bui, Mujibur Rahman, Shriram Moharil, Matthew Pierson, Steve Mullinnix, Hung Ong,   David Thompson, Krishna Gurram, Oluleye Olorode and Nuruddin Mahmood",
+              "place": "Texas Instruments Inc Dallas"
+            }
+          ]
+        },
+        {
+          "uniquekey": "26",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 15:35-16:50",
+          "time": "15:35-16:50",
+          "sessionid": "C6",
+          "sessiontitle": "Diagnosis and Debug Techniques",
+          "sessionsubtitle": "",
+          "chair": "Chair: Kaushik De",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C6.1",
+              "eventdescription": "A Reconfigurable On-die Traffic Generator in 45nm CMOS for a 48 iA-32 Core Network-on-Chip",
+              "speakers": "Praveen Salihundam, Asadullah Khan Mohammed, Shailendra Jain, Satish Yada, Shasi Kumar, Vasantha Erraguntla, Sriram Vangal, Yatin Hoskote and Nitin Borkar",
+              "place": "Intel Corp"
+            },
+            {
+              "eventid": "C6.2",
+              "eventdescription": "Efficient Online RTL Debugging Methodology for Logic Emulation Systems",
+              "speakers": "Somnath Banerjee and Tushar Gupta",
+              "place": "Mentor Graphics Pvt Ltd India"
+            },
+            {
+              "eventid": "C6.3",
+              "eventdescription": "SCARE: Side-Channel Analysis based Reverse Engineering for Post-Silicon Validation",
+              "speakers": "Xinmu Wang, Seetharam Narasimhan, Aswin Krishna and Swarup Bhunia",
+              "place": "Case Western Reserve University"
+            }
+          ]
+        },
+        {
+          "uniquekey": "27",
+          "day": "Day 2: Jan 10",
+          "date": "Day 2: Jan 10: 09:00-17:00",
+          "time": "09:00-17:00",
+          "sessionid": "",
+          "sessiontitle": "Industry Forum",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "Room No 1.01",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "28",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 09:00-09:45",
+          "time": "09:00-09:45",
+          "sessionid": "Keynote 7",
+          "sessiontitle": "Rajesh Gupta, University of California San Diego, USA",
+          "sessionsubtitle": "The Variability Expeditions: Exploring the Software Stack for Underdesigned Computing Machines",
+          "chair": "",
+          "venue": "Hall 1 & 2",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "29",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 09:50-11:05",
+          "time": "09:50-11:05",
+          "sessionid": "A7",
+          "sessiontitle": " Fast Algorithms for Nano CMOS AMS Optimization",
+          "sessionsubtitle": "",
+          "chair": "Chair: Menezes, Vinod",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A7.1",
+              "eventdescription": "Kriging-Assisted Ultra-Fast Simulated-Annealing Optimization of a Clamped Bitline Sense Amplifier",
+              "speakers": "Oghenekarho Okobiah, Saraju Mohanty, Elias Kougianos and Oleg Garitselov",
+              "place": "University of North Texas"
+            },
+            {
+              "eventid": "A7.2",
+              "eventdescription": "Fast-Accurate Non-Polynomial Metamodeling for nano-CMOS PLL Design Optimization",
+              "speakers": "Oleg Garitselov, Saraju Mohanty and Elias Kougianos",
+              "place": "University of North   Texas"
+            },
+            {
+              "eventid": "A7.3",
+              "eventdescription": "Circuit Optimization at 22nm Technology Node",
+              "speakers": "Angada Sachid, Pallavi Paliwal, Sanjay Joshi, Maryam Shojaei, Dinesh Sharma and V. Ramgopal Rao",
+              "place": "University of California Berkeley, IIT Bombay"
+            }
+          ]
+        },
+        {
+          "uniquekey": "30",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 09:50-11:05",
+          "time": "09:50-11:05",
+          "sessionid": "B7",
+          "sessiontitle": "Low Power IC Design II",
+          "sessionsubtitle": "",
+          "chair": "Chair: Mohit Sharma",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B7.1",
+              "eventdescription": "Synthesis of Reversible Circuits using Heuristic Search Method",
+              "speakers": "Kamalika Datta, Gaurav Rathi, Indranil Sengupta and Hafizur Rahaman",
+              "place": "BES University, IIT Kharagpur"
+            },
+            {
+              "eventid": "B7.2",
+              "eventdescription": "Minimum Cost Fault Tolerant Adder Circuits in Reversible Logic Synthesis",
+              "speakers": "Sajib Mitra and Ahsan Raja Chowdhury",
+              "place": "University Of Dhaka"
+            },
+            {
+              "eventid": "B7.3",
+              "eventdescription": "Width-Aware Fine-Grained Dynamic Supply Gating: A Design Methodology for Low-Power Datapath and Memory",
+              "speakers": "Somnath Paul, Lei Wang and Swarup Bhunia",
+              "place": "Case Western Reserve University"
+            }
+          ]
+        },
+        {
+          "uniquekey": "31",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 09:50-11:05",
+          "time": "09:50-11:05",
+          "sessionid": "C7",
+          "sessiontitle": "Timing Issues in Test",
+          "sessionsubtitle": "",
+          "venue": "G.05",
+          "chair": "Chair: Adit Singh",
+          "subtopics": [
+            {
+              "eventid": "C7.1",
+              "eventdescription": "Eliminating Performance Penalty of Scan",
+              "speakers": "Ozgur Sinanoglu",
+              "place": "New York University - Abu Dhabi"
+            },
+            {
+              "eventid": "C7.2",
+              "eventdescription": "A Silicon Testing Strategy for Pulse-Width Failures",
+              "speakers": "Srinivas Vooka, Pranav Murthy, Khushboo Agarwal, Venkatraman Ramakrishnan and Abhijeet Shrivastava",
+              "place": "Texas Instruments   India Pvt Ltd"
+            },
+            {
+              "eventid": "C7.3",
+              "eventdescription": "At-speed Testing of Asynchronous Reset De-assertion Faults",
+              "speakers": "Arvind Jain, Srinivas Vooka, Neeraj Pradhan, Prasun Nair and Maheedhar Jalasutram",
+              "place": "Texas Instruments, BITS-Pilani Goa Campus"
+            }
+          ]
+        },
+        {
+          "uniquekey": "32",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "A8",
+          "sessiontitle": " Efficient Methods for AMS Design Optimization",
+          "sessionsubtitle": "",
+          "chair": "Chair:   Padmini Gopalakrishnan",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A8.1",
+              "eventdescription": "A Library for Passive Online Verification of Analog and Mixed-Signal Circuits",
+              "speakers": "Debjit Pal, Pallab Dasgupta and Siddhartha Mukhopadhyay",
+              "place": "IIT Kharagpur"
+            },
+            {
+              "eventid": "A8.2",
+              "eventdescription": "A Fast Equation Free Iterative Approach to Analog Circuit Sizing",
+              "speakers": "Supriyo Maji and Pradip Mandal",
+              "place": "IIT Kharagpur"
+            },
+            {
+              "eventid": "A8.3",
+              "eventdescription": "Iterative Performance Model Upgradation in Geometric Programming based Analog Circuit Sizing for Improved Design Accuracy",
+              "speakers": "Samiran Dam and Pradip Mandal",
+              "place": "IIT   Kharagpur"
+            }
+          ]
+        },
+        {
+          "uniquekey": "33",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 11:25-12:40",
+          "time": "11:25- 12:40",
+          "sessionid": "B8",
+          "sessiontitle": "Embedded System Applications",
+          "sessionsubtitle": "",
+          "chair": "Chair: Preeti Panda",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "ET5",
+              "eventdescription": "Embedded Tutorial: Advanced Techniques for Programming Networked Embedded Systems",
+              "speakers": "Vijay Raghunathan",
+              "place": "Purdue University"
+            },
+            {
+              "eventid": "Design Contest Winner",
+              "eventdescription": "Hardware Architecture for Pairwise Statistical Significance Estimation in Bioinformatics Problems",
+              "speakers": "Daniel Honbo, Amit Pande, Ankit Agrawal and Alok Choudhary",
+              "place": "Northwestern University, University of California Davis"
+            }
+          ]
+        },
+        {
+          "uniquekey": "34",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 11:25-12:40",
+          "time": "11:25-12:40",
+          "sessionid": "C8",
+          "sessiontitle": "Formal Methods in Test and Verification",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C8.1",
+              "eventdescription": "Analysis of Reachable Sensitisable Paths in Sequential Circuits with SAT and Craig Interpolation",
+              "speakers": "Matthias Sauer, Stefan Kupferschmid, Alexander Czutro, Sudhakar Reddy and Bernd Becker",
+              "place": "University of Freiburg, University of Iowa"
+            },
+            {
+              "eventid": "C8.2",
+              "eventdescription": "Formal Verification of Galois Field Multipliers using Computer Algebra Techniques",
+              "speakers": "Jinpeng LV and Priyank Kalla",
+              "place": "University of Utah"
+            },
+            {
+              "eventid": "C8.3",
+              "eventdescription": "A Novel SMT-Based Techniquw for LFSR Reseeding",
+              "speakers": "Sarvesh Prabhu, Michael Hsiao, Loganathan Lingappan and Vijay Gangaram",
+              "place": "Virginia Tech, Intel Corp"
+            }
+          ]
+        },
+        {
+          "uniquekey": "35",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 13:40-14:25",
+          "time": "13:40-14:25",
+          "sessionid": "Keynote 8",
+          "sessiontitle": "Suresh Menon, Xilinx",
+          "sessionsubtitle": "FPGA Roadmap:Technology Challenges & Transitioning to Stack Silicon Interconnect",
+          "chair": "Chair: S Uma Mahesh",
+          "venue": "Hall 1 & 2",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "36",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 14:25-15:10",
+          "time": "14:25-15:10",
+          "sessionid": "Keynote 9",
+          "sessiontitle": "Bert Gyselinckx, IMEC, Belgium",
+          "sessionsubtitle": "A wireless sensor a day keeps the doctor away",
+          "chair": "Chair: Prathima Agrawal",
+          "venue": "Hall 1 & 2",
+          "subtopics": [
+            
+          ]
+        },
+        {
+          "uniquekey": "37",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 15:30-16:45",
+          "time": "15:30-16:45",
+          "sessionid": "A9",
+          "sessiontitle": "Circuit Simulation",
+          "sessionsubtitle": "",
+          "chair": "Chair: Sambuddha Bhattacharya",
+          "venue": "G.01",
+          "subtopics": [
+            {
+              "eventid": "A9.1",
+              "eventdescription": "Two Graph based Circuit Simulator for PDE-Electrical Analogy",
+              "speakers": "Yogesh Save, H. Narayanan and Sachin Patkar",
+              "place": "IIT Bombay"
+            },
+            {
+              "eventid": "A9.2",
+              "eventdescription": "Modeling of Partially Depleted SOI DEMOSFETs With a Sub-circuit Utilizing the HiSiM-HV Compact   Model.",
+              "speakers": "Tarun Kumar Agarwal and M. Jagadesh Kumar",
+              "place": "IIT Delhi"
+            },
+            {
+              "eventid": "A9.3",
+              "eventdescription": "Implications of halo implant shadowing and backscattering from mask layer edges on device leakage current in 65nm SRAM",
+              "speakers": "Srinivasaiah H. C",
+              "place": "Dayananda Sagar College of   Engineering Bangalore"
+            }
+          ]
+        },
+        {
+          "uniquekey": "38",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 15:30-16:45",
+          "time": "15:30-16:45",
+          "sessionid": "B9",
+          "sessiontitle": "Application Specific Processing Architectures",
+          "sessionsubtitle": "",
+          "chair": "Chair: Sri Parameswaran",
+          "venue": "G.03",
+          "subtopics": [
+            {
+              "eventid": "B9.1",
+              "eventdescription": "Hardware Efficient Architecture for Generating Sine/Cosine Waves",
+              "speakers": "Supriya Aggarwal and Kavita Khare",
+              "place": "NIT Bhopal"
+            },
+            {
+              "eventid": "B9.2",
+              "eventdescription": "Power Aware Hardware Prototyping of Multiclass SVM Classifier",
+              "speakers": "Rajesh Patil, Gauri Gupta, Vineet Sahula and Atanendu Mandal",
+              "place": "MNIT Jaipur, CEERI Pilani"
+            },
+            {
+              "eventid": "B9.3",
+              "eventdescription": "A High Speed FIR filter Architecture based on Novel Higher Radix Algorithm",
+              "speakers": "Sahoo SK and Srinivasa Reddy K",
+              "place": "BITS-Pilani"
+            }
+          ]
+        },
+        {
+          "uniquekey": "39",
+          "day": "Day 3: Jan 11",
+          "date": "Day 3: Jan 11: 15:30-16:45",
+          "time": "15:30-16:45",
+          "sessionid": "C9",
+          "sessiontitle": "Test Optimization",
+          "sessionsubtitle": "",
+          "chair": "",
+          "venue": "G.05",
+          "subtopics": [
+            {
+              "eventid": "C9.1",
+              "eventdescription": "A Diagnosability Metric for Test Set Selection targeting better Fault Detection",
+              "speakers": "Subhadip Kundu, Santanu Chattopadhyay, Indranil Sengupta and Rohit Kapur",
+              "place": "IIT Kharagpur,   Synopsys"
+            },
+            {
+              "eventid": "C9.2",
+              "eventdescription": "Test Planning for Core-based 3D Stacked ICs with Through-Silicon Vias",
+              "speakers": "Breeta Sengupta, Urban Ingelsson and Erik Larsson",
+              "place": "Linköping University"
+            },
+            {
+              "eventid": "C9.3",
+              "eventdescription": "Externally Tested Scan Circuit With Built-In Activity Monitor and Adaptive Test Clock",
+              "speakers": "Priyadharshini Shanmugasundaram and Vishwani Agrawal",
+              "place": "NVIDIA, Auburn University"
+            }
+          ]
+        }
+      ]
+    },
+    "tutorial": {
+      "data": [
+        {
+          "uniquekey": "1",
+          "day": "Day 1: Jan 07",
+          "time": "09:00-17:00",
+          "sessionid": "T1",
+          "sessiontitle": "Design of Mixed-Signal Systems using SystemC AMS extensions",
+          "speakers": "Sumit Adhikari, Markus Damm, Christoph Grimm\n François Pecheux",
+          "place": "Vienna University of Technology, Austria \n UPMC, Paris, France",
+          "venue": "G.01",
+          "abs": "Abstract: SystemC has become an accepted standard for design of HW/SW Systems at system level. How-ever, nowadays systems include more and more analog/RF components such as transceivers, sensor interfaces, or PLL. To enable design of such mixed-signal systems, OSCI has standardized AMS extensions for SystemC in 2010. In addition to the capabilities of SystemC for modelling multi-processor HW/SW systems, the AMS extensions enable modelling the behaviour of analog/RF parts, physical environment and digital signal processing methods.The tutorial gives an introduction into SystemC AMS extensions. The introduction includes the language itself, some simple examples, use cases and (top-down) methodology for refinement of AMS systems, starting from an executable specification."
+        },
+        {
+          "uniquekey": "2",
+          "day": "Day 1: Jan 07",
+          "time": "09:00-17:00",
+          "sessionid": "T2",
+          "sessiontitle": "Reversible Logic: Fundamentals and Applications in Ultra-Low Power, Fault Testing and Emerging Nanotechnologies,   and Challenges in Future",
+          "speakers": "Himanshu Thapliyal and Nagarajan Ranganathan ",
+          "place": "University of South Florida, USA",
+          "venue": "G.03",
+          "abs": "Abstract: Reversible logic is emerging as a promising computing paradigm with applications   in ultra-low power nanocomputing and emerging nanotechnologies such as quantum computing, quantum dot cellular automata (QCA), optical computing, etc. Reversible circuits are similar to conventional logic circuits except that they are built from reversible gates. In reversible gates, there is a unique, one-to-one mapping between the inputs and outputs, not the case with conventional logic. In this tutorial, the speakers will introduce fundamentals of reversible logic and its promising applications in ultra-low power anocomputing, fault testing and emerging nanotechnologies, as well as the current state of the art and challenges in future. In this presentation, first, a brief overview of reversible logic basics will be given. Next, the speakers will introduce basic reversible logic gates and the key metrics that need to be optimized in reversible logic design and synthesis. Reversible gates require constant ancilla inputs for reconfiguration of gate functions and garbage outputs that help in keeping reversibility. Thus, it is important to minimize parameters such as ancilla and garbage bits, quantum cost and delay in the design of reversible circuits. Next, the speakers will introduce a number of basic reversible gates used in design and a new reversible gate namely the TR gate (Thapliyal-Ranganathan) which has the unique structure that makes it ideal for the realization of arithmetic circuits such as adders, subtractors and comparators,   efficient in terms of the parameters such as ancilla and garbage bits, quantum cost and delay. The design methodologies and a framework to synthesize reversible data path functional units, such as binary and BCD adders, subtractors, barrel shifters,   binary comparators and floating point units will be presented.The objective behind the proposed design methodologies is to synthesize arithmetic and logic functional units optimizing key metrics such as ancilla inputs, garbage outputs, quantum cost and delay. Next, the speakers will present a set of methodologies for the design of reversible sequential circuits such as reversible latches, flip-flops and shift registers. Next, the application of reversible logic in online and offline testing of single as well as multiple faults in traditional and reversible nanoscale VLSI circuits is introduced. As reversible logic has applications in various emerging technologies such as quantum computing, quantum dot cellular automata, optical computing etc, thus this tutorial will also cover the introductory material on these emerging nanotechnologies. A brief overview will be presented of the design of low power circuits based on reversible computing paradigm such as split charge recovery logic (SCRL), reversible energy recovery logic (RERL), nmos reversible energy recovery logic (nRERL), r-MOS, etc. The tutorial will conclude with discussions on current state of the art, progress and future challenges, such as reversible programming languages, design of reversible CPU, and the open questions about the implementation technologies that could pave the way of ultra-low power nano-processor. In conclusion, this tutorial will touch on reversible logic having application in traditional CMOS for low power computing to non-classical computing domain such as quantum computing, QCA computing. etc."
+        },
+        {
+          "uniquekey": "3",
+          "day": "Day 1: Jan 07",
+          "time": "09:00-17:00",
+          "sessionid": "T3",
+          "sessiontitle": "DFM, DFT, Silicon Debug and Diagnosis - The loop to ensure product yield",
+          "speakers": "Nagesh Tamarapalli\n Srikanth Venkataraman",
+          "place": "AMD, India\n Intel, Oregon, USA",
+          "venue": "G.05",
+          "abs": "Abstract: Semiconductor yield has traditionally been limited by random particle-defect based issues. However, as the feature sizes reduced to 90nm and below, systematic mechanism-limited yield loss began to appear as a substantial component in yield loss. In addition, it is becoming clear that ramping yield would take longer and final yields would not reach historical norms. A key factor for not reaching previously attained yield levels is the interaction between design and manufacturing. Yield losses in the newer processes include functional defects, parametric defects and   issues with testing. Each of these sources of yield loss needs to be analyzed and understood by designers and tool developers. In addition, new techniques and methods must be devised to minimize the impact of these yield loss mechanisms. After an introduction of the issues involved in the first section, the second section covers Design-for-Manufacturing (DFM) techniques to analyze the design content, flag areas of design that could limit yield, and make changes to improve yield. However, once the changes are made it is necessary to quantify their impact so that knowledge about yield contribution of different features can be fed back to design   and DFM tools. Test presents an opportunity to close the loop by crafting test patterns to expose the defect prone features during automatic test pattern generation (ATPG) and by analyzing silicon failures through diagnosis to determine the features that are actually causing yield loss and their relative impact. The third section covers design techniques (DFX) to improve testability, debuggability and diagnosability, and DFM and defect-aware test generation to both meet product quality and expose yield issues at test. Section four covers the basic concepts and theoretical aspects of debug and diagnosis including algorithmic IC diagnosis, scan   chain diagnosis, critical path based techniques and diagnosis of delay defects. The applications of the basic concepts and techniques for silicon debug are covered in section five. Section six covers the application of statistical diagnosis techniques to   determine the features that are actually causing yield loss and their relative impact. Finally, in section seven, future trends, challenges and directions are covered.The proposed tutorial includes the basics to be of interest to students, new engineers and managers but covers new and recent advances in hot topics in Design-for-Manufacturing, yield, test and diagnosis to be of interest to researchers and practicing engineers. The selection of topics cover a broad spectrum and will be of interest to a wide audience including design, test, product, validation, yield, debug and FA engineers."
+        },
+        {
+          "uniquekey": "4",
+          "day": "Day 1: Jan 07",
+          "time": "09:00-17:00",
+          "sessionid": "T4",
+          "sessiontitle": "Intellectual Property Protection and Security in System on a Chip",
+          "speakers": "Susmita Sur-Kolay\n Swarup Bhunia",
+          "place": "Indian Statistical Institute\n Case Western Reserve University, USA",
+          "venue": "G.06",
+          "abs": "Abstract: Gigascale integration in recent semiconductor technology mandates design reuse in order to meet the design specifications in time. Electronic description of VLSI design being an intellectual property (IP), may be infringed upon during design reuse. This calls for incorporating techniques for intellectual property protection in the VLSI design flow. The IP of VLSI design, which culminates in fabrication of the integrated circuit, differs from other sources of IPs   because in addition to its physical and structural description, it has also a behavioral specification which should remain unaltered after application of IP protection techniques. Security in activation of chips, especially in embedded systems, is an equally grave issue and has led to the paradigm of design-for-security.This tutorial aims at presenting the major concerns related to IP security that are significant to both the circuit designers and developers of CAD tools. The nature of threats are broadly categorized as (i) misappropriation by hacking during electronic commerce and intentional reselling mostly at design level, and (ii) unauthorized design retrieval. Various attack models and the mechanisms for effective counter measures such as encryption, obfuscation, watermarking and fingerprinting, and certain analytic methods derived from the behavioral aspect, specific to chip designs, will be discussed. First, the scenario of digital rights management, attack models and security goals will be described. Next, the existing approaches for protection of soft IPs such as HDL codes, firm IPs especially at the value-added layout level, and hard IPs including DFM-enhanced layout will be presented. This will include a number of published research results by the presenters. Finally, the recent advances in tackling security issues for design of smart cards and cryptoprocessors will be surveyed."
+        },
+        {
+          "uniquekey": "5",
+          "day": "Day 2: Jan 08",
+          "time": "09:00-17:00",
+          "sessionid": "T5",
+          "sessiontitle": "Advanced Analog-Mixed Signal System and Circuit Techniques",
+          "speakers": "Pavan Hanumolu, Un-Ku Moon, and Terri Fiez",
+          "place": "Oregon State University, USA",
+          "venue": "G.01",
+          "abs": "Abstract: This tutorial begins with a broad overview of challenges in emerging mixed signal systems. After describing the system-level requirements along with the architecture and circuit needs, specific circuit and system solutions will be discussed to highlight promising approaches. Design techniques for advanced analog- and mixed signal circuit blocks such as phase-locked loops and analog-to-digital converters will be covered   in detail. Finally, the modeling and analysis of substrate noise coupling in mixed-signal integrated circuits is addressed. Detailed program: This day long tutorial addresses both the system- and circuit-level aspects of emerging mixed-signal systems. Analysis and design techniques to implement analog to digital converters, phase-locked loops, and the impact of substrate noise on these circuits in large system-on-chips will be discussed. The tutorial is categorized into the following four categories.  1. Challenges in Emerging Mixed-Signal Systems and Applications: With the successful integration of systems-on-a-chip for a wide range of ubiquitous applications including cell phones and gaming devices, new applications for SOCs are arising that create unique challenges at the circuit and system level. In this talk several emerging applications for integrated mixed-signal systems will be highlighted including sensor networks, solar electronics, and tracking and monitoring devices. The system level requirements will be discussed along with the architecture and circuit needs. Specific circuit and system solutions will be discussed to highlight promising approaches to address both application and process challenges in the coming decade.  2. Phase-Locking Techniques for Frequency Synthesis: Phase-locked loops (PLLs) are essential building blocks in all digital, analog, and radiofrequency integrated circuits (ICs). The noise, power, and area of PLLs determine many of the key performance parameters in all such ICs. This tutorial describes the fundamental principles and concepts of PLL design. After reviewing the operation of a simple type-1 PLL and the characteristics of its building blocks, the operating and design principles of a charge-pump PLL will be discussed in detail. Phase noise analysis using a small-signal model will be described and noise-bandwidth-power tradeoffs will be presented. Existing and emerging techniques to alleviate these tradeoffs will be briefly discussed.  3. Digitally-Enhanced Phase-Locking Techniques: Implementing analog phase-locked loops (PLLs) in deep sub-micron processes pose many design challenges. In this talk we elucidate such challenges and address those using highly digital architectures. Implementation details of the building blocks in a digital PLL such as time-to-digital converters, digital loop filters, and digitally-controlled oscillators will be described. Digital PLL specific design issues such as limit cycles and the dither   jitter caused by them will be discussed.  4. Advanced and Emerging ADCs: Many analog IC designers and students are drawn to ADCs. While some ADC realizations have had a lasting impact, examples including pipelined ADCs with digital redundancy, flash ADCs with folding and interpolation, and multi-bit delta-sigma modulators with dynamic element matching, there are many more recent, advanced and emerging ADC design techniques that are receiving much attention and also gaining momentum in some areas. Many of these ideas are showered with doubts and honest criticism. However, we may also be entering a new era where some of these developments would help resolve the toughest submicron scaling challenges that analog designers face today. This tutorial will summarize and ponder the impact of a few selective as well as random   slices of these advanced and emerging ADC designs."
+        },
+        {
+          "uniquekey": "6",
+          "day": "Day 2: Jan 08",
+          "time": "09:00-17:00",
+          "sessionid": "T6",
+          "sessiontitle": "Variability-resistant Software and Hardware for Nano-Scale Computing",
+          "speakers": "Nikhil Dutt\n Mani Srivastava\n Rajesh Gupta\n Subhashish Mitra",
+          "place": "UC Irvine, USA\n University of California, Los Angeles,USA\n University of California, San Diego, USA\n Stanford University, USA",
+          "venue": "G.03",
+          "abs": "Abstract: As semiconductor manufacturers build ever smaller components, circuits and chips at the nano scale become less reliable and more expensive to produce  no longer behaving like precisely chiseled machines with tight tolerances. Modern computing tends to ignore the variability in behavior of underlying system components from device to device, their wear-out over time, or the environment in which the computing system is placed. This makes them expensive, fragile and vulnerable to even the smallest changes in the environment or component failures. This tutorial presents an approach to tame and exploit variability through a strategy where system components -- led by proactive software -- routinely monitor, predict and adapt to the variability of manufactured systems. Unlike conventional system design where variability is hidden behind the conservative specifications of an over-designed hardware, we describe strategies that expose spatiotemporal variations in hardware to the highest layers of software. After presenting the background and positioning the new approach, the tutorial will proceed in a bottom-up fashion. Causes of variability at the circuit and hardware levels are first presented, and classical approaches to hide such variability are presented. The tutorial then presents a number of strategies at successively higher levels of abstraction  covering the circuit, microarchitecture, compiler, operating systems and software applications  to monitor, detect, adapt to, and exploit the exposed variability. Adaptable software will use online statistical modeling to learn and predict actual hardware characteristics, opportunistically adjust to variability, and proactively conform to a deliberately underdesigned hardware with relaxed design and manufacturing constraints. The resulting class of UnO (Underdesigned and Opportunistic) computing machines are adaptive but highly energy efficient. They will continue working while using components that vary in performance or grow less reliable over time and across technology generations. A fluid software-hardware interface will mitigate the variability of manufactured systems and make machines robust, reliable and responsive to changing operating conditions --offering the best hope for perpetuating the fundamental gains in computing performance at lower cost of the past 40 years."
+        },
+        {
+          "uniquekey": "7",
+          "day": "Day 2: Jan 08",
+          "time": "09:00-12:00",
+          "sessionid": "T7A",
+          "sessiontitle": "New Modeling Methodologies for Thermal Analysis of 3D ICs and Advanced Cooling Technologies of the Future",
+          "speakers": "Arvind Shridhar and David Atienza",
+          "place": "EPFL Switzerland",
+          "venue": "G.05",
+          "abs": "Abstract: Increasing circuit densities, the proliferation of Multi-Processor Systems-on-Chips(MPSoCs) and high performance computing systems have resulted in an alarming rise in electronic heat dissipation levels,making the conventional thermal management strategies, including air cooled heat sinks, obsolete. The latest advancements in 3D Integration of IC dies have only aggravated this problem, creating a strong worldwide research interest in the   development of advanced cooling technologies, such as interlayer microchannel liquid cooled heat sinks, to maintain ICs under safe operating temperatures. While this research has helped create a substantial amount of knowledge base pertaining to the heat transfer mechanism in advanced liquid cooling systems as applied to electronic circuits, this knowledge is yet to be transferred to the EDA community for it to be incorporated in the IC thermal simulators of the future. The existence of such tools becomes absolutely essential when IC designers are faced with the challenge of ascertaining the thermal reliability of their designs in the presence of   liquid cooling systems. This tutorial aims to introduce the attendees to the key concepts that are needed to compute IC temperatures with and without microchannel liquid cooling and the principles behind compact modeling of forced convective heat transfer in advanced IC cooling technologies. A major part of this tutorial is based on the 3D- -ICE thermal simulator, which has been built by the   Embedded Systems Laboratory in EPFL, Switzerland (URL:http://esl.epfl.ch/3D-­-ICE ). This simulator is based on the Compact Transient   Thermal Modeling for forced convective cooling advanced by our research group. Since its release in 2010, more than 50 research groups across the world have downloaded it and are actively using it for their research."
+        },
+        {
+          "uniquekey": "8",
+          "day": "Day 2: Jan 08",
+          "time": "09:00-12:00",
+          "sessionid": "T8A",
+          "sessiontitle": "Designing Silicon-Photonic Communication Networks for Manycore Systems",
+          "speakers": "Ajay   Joshi",
+          "place": "Boston University,USA",
+          "venue": "G.05",
+          "abs": "Abstract: The goal of this tutorial is to explain the limits and opportunities of using silicon-photonic link technology for inter-chip and intra-chip communication in manycore systems. Silicon-photonic links have larger bandwidth density and lower energy than equivalent electrical links. In this tutorial, I will first provide an overview of the silicon-photonic device technology and link transceiver/tuning circuits. Using three silicon-photonic network case studies { on-chip tile-to-tile network, process-to-DRAM network and DRAM memory channel, the various silicon-photonic network design issues at the physical level, micro-architecture level and architecture level will be explained in detail. An iterative design process, where we move between these three levels to meet the power-performance specications under the silicon-photonic technology constraints will also be presented. At the end of the tutorial, attendees will have a broad understanding of the capabilities of silicon-photonic technology, and they will be able to design and analyze silicon-photonic networks for Manycore systems."
+        },
+        {
+          "uniquekey": "9",
+          "day": "Day 2: Jan 08",
+          "time": "14:00-17:00",
+          "sessionid": "T7B",
+          "sessiontitle": "Optimally Addressing Verification Constraint Complexity for Effective Functional Convergence",
+          "speakers": "Shankar Hemmady",
+          "place": "Synopsys, USA",
+          "venue": "G.06",
+          "abs": "Abstract: As SoC design becomes larger and more complex, verification engineers are expanding constrained-random testing to meet the validation demand. This expansion creates a new set of challenges: engineers now face exponentially growing verification performance and capacity issues. It is no longer enough to write constraints that simply function to validate a design. Today, engineers must also optimize the constraints they write for performance if they wish to have any hope of both successfully validating their design and meeting their deadlines. In this tutorial, we discuss a scalable methodology for writing constraints and optimizing performance is which will improve engineersÕ productivity to write and debug ever-increasing amounts of larger, more complex sets of constraints. Our goal is to reduce the time needed for functional convergence, and later for debug and volume manufacturing. We will also discuss the vital role of Verification IP providers and users in this scenario."
+        },
+        {
+          "uniquekey": "10",
+          "day": "Day 2: Jan 08",
+          "time": "14:00-17:00",
+          "sessionid": "T8B",
+          "sessiontitle": "Wireless System Design and Systems Engineering Challenges",
+          "speakers": "Ravi Kishore B, Kameswara Rao B, and Muralidhar Reddy B",
+          "place": "HCL India",
+          "venue": "G.06",
+          "abs": "Abstract: Pervasiveness of wireless technology is impacting every aspect of the society and is becoming a defacto feature of any electronic product. This tutorial provides a comprehensive overview of wireless system design and brings out the systems engineering issues through real-life design case studies. It begins with an overview of a typical wireless system and the underlying RF technology. Next, a detailed view of wireless system design with mathematical underpinning of concepts and design of sub-systems will be presented; it highlights systems engineering issues in wireless product development. Subsequently, the tutorial presents the relevant system design case studies, for various wireless applications viz; medical electronics, consumer electronics, defense, telecommunications etc., and explains the methodologies to address the systems engineering issues. Finally, the tutorial explains the trends in future wireless systems design and the associated challenges. The last session concludes the tutorial, followed by a discussion."
+        }
+      ]
+    }
+  }
+}
